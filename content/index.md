@@ -1,9 +1,12 @@
 ---
 title: Soulful Psyche
+enableToc: "true"
 ---
 # **OHAI** 👋🏼 
 a bit 
 & here's what I've been writing about lately 👇🏼
+
+
 ## All Posts
 
 I'm career shifting from 10 years in corporate finance back into grad school for my second Master's degree and a career as a Psychotherapist.
