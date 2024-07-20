@@ -66,6 +66,11 @@ ul,
 
 strong {
   font-weight: $semiBoldWeight;
+  color: var(--secondary);
+}
+
+em {
+  color: var(--tertiary) !important;
 }
 
 a {
