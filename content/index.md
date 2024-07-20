@@ -1,6 +1,9 @@
 ---
 title: Soulful Psyche
 ---
+### **OHAI** 👋🏼 
+a bit 
+& here's what I've been writing about lately 👇🏼
 
 I'm career shifting from 10 years in corporate finance back into grad school for my second Master's degree and a career as a Psychotherapist.
 
