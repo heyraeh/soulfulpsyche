@@ -2,7 +2,7 @@
 title: Soulful Psyche
 enableToc: "true"
 ---
-# **OHAI** 👋🏼 
+## OHAI 👋🏼 
 a bit 
 & here's what I've been writing about lately 👇🏼
 
