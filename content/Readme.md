@@ -1,6 +1,6 @@
 ---
-tags:
-  - draft
+tags: []
+draft: true
 ---
 
 
