@@ -4,8 +4,7 @@ longform:
   title: Soulful Psyche
   workflow: Default Workflow
   sceneFolder: /
-  scenes:
-    - Introduction
+  scenes: []
   sceneTemplate: templates/post.md
   ignoredFiles: []
 ---
