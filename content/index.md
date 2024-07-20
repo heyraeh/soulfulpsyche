@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Soulful Psyche
 ---
 
 This is a blank Quartz installation.
