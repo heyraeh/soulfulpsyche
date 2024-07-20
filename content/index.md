@@ -2,6 +2,12 @@
 title: Soulful Psyche
 ---
 
+```dataview
+TABLE
+date AS "Date"
+from #post AND !#draft
+```
+
 
 
 I'm career shifting from 10 years in corporate finance back into grad school for my second Master's degree and a career as a Psychotherapist.
