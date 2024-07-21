@@ -1,23 +1,13 @@
 // @ts-ignore
 import clipboardScript from "./scripts/clipboard.inline"
 import clipboardStyle from "./styles/clipboard.scss"
-import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
-import RecentNotesConstructor from "./RecentNotes"
+import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 
-export default (() => {
-  const RecentNotes = RecentNotesConstructor()
+const Body: QuartzComponent = ({ children }: QuartzComponentProps) => {
+  return <div id="quartz-body">{children}</div>
+}
 
-  function Body(componentData: QuartzComponentProps) {
-    return (
-      <div id="quartz-body">
-        {componentData.children}
-        <RecentNotes {...componentData} />
-      </div>
-    )
-  }
+Body.afterDOMLoaded = clipboardScript
+Body.css = clipboardStyle
 
-  Body.afterDOMLoaded = clipboardScript
-  Body.css = clipboardStyle
-
-  return Body
-}) satisfies QuartzComponentConstructor
+export default (() => Body) satisfies QuartzComponentConstructor
