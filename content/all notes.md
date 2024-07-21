@@ -10,4 +10,4 @@
 [[2018-08-20 - stripped]]\
 [[2018-05-26 - 4,887 klicks of change]]\
 [[2018-01-26 - Virginia Woolf]]\
-[[2018-01-11 - recrudescence]]\
+[[2018-01-11 - recrudescence]]

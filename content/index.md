@@ -18,10 +18,10 @@ Otherwise, here's what I've been writing about lately 👇🏼\
 ☕️ *I have tea; come sit*\
 
 ## things you can do here
-- read  ✏️ [[all notes]]\
-- navigate the sidebar on the left ←\
-- smaller more casual words are found on my [Mastodon](https://mstdn.games/@craftykraken)\
-- or just [drop me a message](tab:https://letterbird.co/heyraeh)\
+- read  ✏️ [[all notes]]
+- navigate the sidebar on the left ←
+- smaller more casual words are found on my [Mastodon](https://mstdn.games/@craftykraken)
+- or just [drop me a message](tab:https://letterbird.co/heyraeh)
 
 
 
