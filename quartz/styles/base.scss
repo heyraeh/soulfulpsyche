@@ -288,7 +288,7 @@ h5,
 h6,
 thead {
   font-family: var(--headerFont);
-  font-weight: 200;
+  font-weight: 300;
   margin-bottom: 0;
 
   article > & > a[role="anchor"] {
@@ -308,7 +308,7 @@ h6 {
     opacity: 0;
     transition: opacity 0.2s ease;
     transform: translateY(-0.1rem);
-    font-family: var(--codeFont);
+    font-family: 'Roboto';
     user-select: none;
   }
 
