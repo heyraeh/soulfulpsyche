@@ -14,8 +14,13 @@ You'll also find delicious little rabbit trails from current research and litera
 You can read a bit more [[about me]]
 or here's a list of [[all notes]] that are published here if you're interested
 
-Otherwise, here's what I've been writing about lately 👇🏼
-☕️ *I have tea; come sit*
+Otherwise, here's what I've been writing about lately 👇🏼\
+☕️ *I have tea; come sit*<br>
+## recent posts
+[[2024-07-21 - I'm back...?]]\
+[[2022-11-09 - finding my words again]]\
+[[2020-02-13 - words]]\
+[[2018-12-18 - write what you fear...]]\
 
 ## things you can do here
 - read  ✏️ [[all notes]]
