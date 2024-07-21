@@ -7,6 +7,6 @@ The writings here will be psychological in nature and focus primarily on the int
 
 ☕️ *I have tea; come sit*
 
-Need to contact me?  
+### Need to contact me?  
 Find me on <a rel="me" href="https://mstdn.games/@craftykraken">Mastodon</a> 
 or just [drop me a message](tab:https://letterbird.co/heyraeh)   
