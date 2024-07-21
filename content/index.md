@@ -11,7 +11,7 @@ The notes here will be psychological in nature and focus primarily on the inters
 You'll also find delicious little rabbit trails from current research and literature because they always grab my attention and I want to tell you about them 🤙🏼
 
 ## not sure where to start?
-You can read a bit more [[about me]]
+You can read a bit more [[about me]]\
 or here's a list of [[all notes]] that are published here if you're interested
 
 Otherwise, here's what I've been writing about lately 👇🏼\
