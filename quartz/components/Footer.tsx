@@ -15,8 +15,9 @@ export default ((opts?: Options) => {
       <footer class={`${displayClass ?? ""}`}>
         <p>
           {i18n(cfg.locale).components.footer.createdWith}{" "}
-          heyraeh © {year}
+          heyraeh © {year}<br>
           <a rel="me" href="https://mstdn.games/@craftykraken">Me on Mastodon</a>
+          </br>
         </p>
         <ul>
           {Object.entries(links).map(([text, link]) => (
