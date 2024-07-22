@@ -9,7 +9,7 @@ export const sharedPageComponents: SharedLayout = {
   ],
   footer: Component.Footer({
     links: {
-      Mastodon: "@craftykraken@mstdn.games",
+
     },
   }),
 }
