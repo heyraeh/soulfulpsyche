@@ -1,7 +1,9 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 
 const Header: QuartzComponent = ({ children }: QuartzComponentProps) => {
-  return children.length > 0 ? <header>{children}</header> : null
+  return children.length > 0 ? <header>{children}
+  <a rel="me" href="https://mstdn.games/@craftykraken">MSTDN TEST</a>
+  </header> : null
 }
 
 Header.css = `
