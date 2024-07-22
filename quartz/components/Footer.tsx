@@ -13,7 +13,10 @@ export default ((opts?: Options) => {
     const links = opts?.links ?? []
     return (
       <footer class={`${displayClass ?? ""}`}>
-        <p> <a rel="me" href="https://mstdn.games/@craftykraken">wording with love by heyraeh {year}</a><br>
+        <p>
+          {i18n(cfg.locale).components.footer.createdWith}{" "}
+          <a rel="me" href="https://mstdn.games/@craftykraken">👉🏼 wording w/ luv by heyraeh © {year}</a><br>
+          
           </br>
         </p>
         <ul>
