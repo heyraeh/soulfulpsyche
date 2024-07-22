@@ -16,6 +16,7 @@ export default ((opts?: Options) => {
         <p>
           {i18n(cfg.locale).components.footer.createdWith}{" "}
           heyraeh © {year}
+          <a rel="me" href="https://mstdn.games/@craftykraken">Me on Mastodon</a>
         </p>
         <ul>
           {Object.entries(links).map(([text, link]) => (
