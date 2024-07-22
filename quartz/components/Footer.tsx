@@ -16,7 +16,6 @@ export default ((opts?: Options) => {
         <p>
           {i18n(cfg.locale).components.footer.createdWith}{" "}
           heyraeh © {year}<br>
-          <a rel="me" href="https://mstdn.games/@craftykraken">👉🏼 Here's me on Mastodon</a>
           </br>
         </p>
         <ul>
