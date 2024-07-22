@@ -2,7 +2,7 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 
 const Header: QuartzComponent = ({ children }: QuartzComponentProps) => {
   return children.length > 0 ? <header>{children}
-  <a rel="me" href="https://mstdn.games/@craftykraken">MSTDN TEST</a>
+  <link rel="me" href="https://mstdn.games/@craftykraken">MSTDN TEST</link>
   </header> : null
 }
 
