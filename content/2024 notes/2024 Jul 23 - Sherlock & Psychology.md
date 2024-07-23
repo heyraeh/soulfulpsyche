@@ -2,8 +2,7 @@
 title: 2024 Jul 23- Sherlock & Psychology
 description: 
 date: 2024 Jul 23
-tags:
-  - post
+tags: []
 draft: false
 ---
 Sherlock's popularity is hard to argue with. Ever since Sir Arthur Conan Doyle penned his first story of Sherlock in [1887](https://en.wikipedia.org/wiki/A_Study_in_Scarlet), his style, methods, charisma, and oddities have swept us up. 
