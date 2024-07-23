@@ -12,6 +12,7 @@ You'll also find some rabbit trails as I dig into current research and literatur
 
 ### not sure where to start?
 - You can read a bit more 👉🏼 [[about me]]
+- read some [[faq's]]
 - or read ✏️ [[all posts]] that have been published 
 - some smaller more casual words are found on my [Mastodon](https://mstdn.games/@craftykraken)
 - or just [drop me a message](tab:https://letterbird.co/heyraeh)
