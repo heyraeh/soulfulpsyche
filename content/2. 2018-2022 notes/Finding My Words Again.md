@@ -1,6 +1,6 @@
 ---
 publish: true
-date: 2022 Nov 09
+date: 2022-11-09
 tags:
   - notes
 draft: false

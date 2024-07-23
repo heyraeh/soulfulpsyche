@@ -1,6 +1,6 @@
 ---
 publish: true
-date: 2020 Feb 13
+date: 2020-02-13
 tags:
   - notes
 draft: false

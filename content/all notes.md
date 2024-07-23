@@ -1,14 +1,14 @@
 
 ## 2024
-[[2024 Jul 23 - Sherlock & Psychology]]
-[[2024 Jul 21 - I'm back...?]]
+[[Sherlock & Psychology]]
+[[I'm back...?]]
 ## 2022
-[[2022 Nov 09 - finding my words again]]
+[[Finding My Words Again]]
 ## 2020
-[[2020 Feb 13 - words]]
+[[Words]]
 ## 2018
-[[2018 Dec 18 - write what you fear...]]
-[[2018 Aug 20 - stripped]]
-[[2018 May 26 - 4,887 klicks of change]]
-[[2018 Jan 26 - Virginia Woolf]]
-[[2018 Jan 11 - recrudescence]]
+[[Write What You Fear...]]
+[[Stripped]]
+[[4,887 klicks of change]]
+[[Virginia Woolf]]
+[[Recrudescence]]

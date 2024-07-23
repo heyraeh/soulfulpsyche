@@ -1,7 +1,7 @@
 ---
 title: 
 description: 
-date: <% tp.file.creation_date('YYYY-MM-DD') %>
+date: 2024-07-23
 tags: 
 draft: true
 ---

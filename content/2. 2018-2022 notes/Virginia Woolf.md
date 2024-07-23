@@ -1,6 +1,6 @@
 ---
 publish: true
-date: 2024 Jul 21
+date: 2018-01-26
 tags:
   - notes
 draft: false
