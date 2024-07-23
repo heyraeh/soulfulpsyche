@@ -97,9 +97,9 @@ a {
       padding: 0;
     }
     &.tag-link {
+      color: #d0c5d8;
       &::before {
         content: "#";
-        color: #d0c5d8;
       }
     }
   }
