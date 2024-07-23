@@ -5,7 +5,7 @@
 > I love Sci-fi 🛸 & fantasy 🧚🏻‍♂️ 
 > I wish I could speak every language 📚
 > I love books, movies, and tv shows on every topic imaginable
-> Go [Canucks](https://www.nhl.com/canucks/), [Hotspurs](https://www.tottenhamhotspur.com), and [Raptors](https://www.nba.com/raptors/)
+> Go 🏒[Canucks](https://www.nhl.com/canucks/), ⚽️[Hotspurs](https://www.tottenhamhotspur.com), and 🏀[Raptors](https://www.nba.com/raptors/)
 > I love Kpop 🫶🏻
 > FFXIV is my jam 
 > I love street photography 📸
