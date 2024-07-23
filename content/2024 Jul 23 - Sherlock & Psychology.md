@@ -1,5 +1,5 @@
 ---
-title: 2024 Jul 23
+title: 2024 Jul 23- Sherlock & Psychology
 description: 
 date: 2024 Jul 23
 tags:
