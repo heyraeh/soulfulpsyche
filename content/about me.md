@@ -1,13 +1,13 @@
 ### 🤙🏼 here's a little bit of heyraeh
-- I'm Canadian, eh 🇨🇦
-- I love Sci-fi 🛸
-- I wish I could speak every language 📚
-- I love Kpop 🫶🏻
-- FFXIV is my jam ![[astrologian-removebg-preview.png | 22]]
-	- so is Stardew Valley, and No Man's Sky, and ACNH....
-- I love street photography 📸
-- I always wanted to be a cinematographer 🎬
-- I'd love to be baking bread all day 🥨
+I'm Canadian, eh 🇨🇦
+I love Sci-fi 🛸
+I wish I could speak every language 📚
+I love Kpop 🫶🏻
+FFXIV is my jam ![[astrologian-removebg-preview.png | 22]]
+- so is Stardew Valley, and No Man's Sky, and ACNH....
+I love street photography 📸
+I always wanted to be a cinematographer 🎬
+I'd love to be baking bread all day 🥨
 
 ### faq's
 Why *Soulful Psyche*?

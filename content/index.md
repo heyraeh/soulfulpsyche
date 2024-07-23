@@ -4,7 +4,7 @@ enableToc: "true"
 ---
 ### 👋🏼 welcome
 
-As I career shift back into the life of a grad student for my second Master's degree and a career as a Psychotherapist, I felt the need for a digital home while I learn and reflect.
+heyraeh here - as I career shift back into the life of a grad student for my second Master's degree and a career as a Psychotherapist, I felt the need for a digital home while I learn and reflect.
 
 The next few years as I go from coursework to thesis - the posts here will be psychological in nature and focus on the intersection of Psychotherapy and Spirituality (*and by Spiritual, I mean it broadly speaking*).
 
