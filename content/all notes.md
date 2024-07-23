@@ -1,5 +1,6 @@
 
 ## 2024
+[[2024 Jul 23 - Sherlock & Psychology]]
 [[2024 Jul 21 - I'm back...?]]
 ## 2022
 [[2022 Nov 09 - finding my words again]]
