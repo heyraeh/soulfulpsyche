@@ -2,11 +2,11 @@
 title: Soulful Psyche
 enableToc: "true"
 ---
-### 👋🏼 welcome
+#### 👋🏼 welcome
 
 I'm Rach, heyraeh, or Raeh 🤙🏼
 
-### not sure where to start?
+You can do a few things here 
 - read a bit 👉🏼 [[about me]]
 - read some ？[[faq's]]
 - look through ✏️ [[all notes]]
@@ -14,7 +14,7 @@ I'm Rach, heyraeh, or Raeh 🤙🏼
 - or [drop me a message](tab:https://letterbird.co/heyraeh)
 
 Otherwise, *here's what I've been writing about lately* 👇🏼
-### recent notes
+#### recent notes
 [[2024-07-21 - I'm back...?]]
 [[2022-11-09 - finding my words again]]
 [[2020-02-13 - words]]
