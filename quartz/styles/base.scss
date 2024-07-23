@@ -87,7 +87,6 @@ a {
   &.internal {
     text-decoration: none;
     background-color: var(--highlight);
-    padding: 0 0.1rem;
     border-radius: 5px;
     line-height: 1.4rem;
 
@@ -292,6 +291,7 @@ h6,
 thead {
   font-family: var(--headerFont);
   font-weight: 300;
+  font-variant: small-caps;
   margin-bottom: 0;
 
   article > & > a[role="anchor"] {
