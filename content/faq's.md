@@ -22,4 +22,4 @@
 
 ## contact
 casual words on <a rel="me" href="https://mstdn.games/@craftykraken">Mastodon</a> 
-or just [drop me a message](tab:https://letterbird.co/heyraeh)
+or [drop me a message](tab:https://letterbird.co/heyraeh)

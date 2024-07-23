@@ -1,4 +1,4 @@
-### 🤙🏼 here's a little bit of heyraeh
+#### 🤙🏼 here's a little bit of heyraeh
 > I'm Canadian, eh 🇨🇦
 > trying to re-learn 🇰🇷 & just starting 🇩🇪
 > [Die Mannschaft](https://simple.wikipedia.org/wiki/Germany_national_football_team)have been my team even before I started learning 🇩🇪
@@ -13,6 +13,6 @@
 > I'd love bake bread all day 🥨
 > Gummy candy feeds my soul 🍬
 
-## contact
+#### contact
 casual words on <a rel="me" href="https://mstdn.games/@craftykraken">Mastodon</a> 
-or just [drop me a message](tab:https://letterbird.co/heyraeh)
+or [drop me a message](tab:https://letterbird.co/heyraeh)
