@@ -99,6 +99,7 @@ a {
     &.tag-link {
       &::before {
         content: "#";
+        color: #d0c5d8;
       }
     }
   }
