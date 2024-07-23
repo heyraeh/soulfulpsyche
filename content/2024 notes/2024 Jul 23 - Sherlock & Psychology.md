@@ -5,7 +5,7 @@ date: 2024 Jul 23
 tags: []
 draft: false
 ---
-Sherlock's popularity is hard to argue with. Ever since Sir Arthur Conan Doyle penned his first story of Sherlock in [1887](https://en.wikipedia.org/wiki/A_Study_in_Scarlet), his style, methods, charisma, and oddities have swept us up. 
+Sherlock's popularity is hard to argue with. Ever since Sir Arthur Conan Doyle penned his first story of Sherlock in [1887](https://en.wikipedia.org/wiki/A_Study_in_Scarlet), Sherlock's style, methods, charisma, and oddities have swept us up. 
 
 The abstract for Richard Kellog's article states:
 > More interest and enthusiasm may be generated for basic psychological concepts if the teacher engages the famous detective as a consultant. ([Kellog 1980](https://doi.org/10.1207/s15328023top0701_11))
