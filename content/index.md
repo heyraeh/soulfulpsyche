@@ -14,7 +14,6 @@ You can do a few things here
 - or [drop me a message](tab:https://letterbird.co/heyraeh)
 
 Otherwise, *here's what I've been writing about lately* 👇🏼
-#### recent notes
 [[2024-07-21 - I'm back...?]]
 [[2022-11-09 - finding my words again]]
 [[2020-02-13 - words]]

@@ -28,7 +28,9 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
+    Component.Graph(),
     Component.RecentNotes(),
+    Component.DesktopOnly(Component.TableOfContents()),
   ],
 }
 
@@ -42,5 +44,9 @@ export const defaultListPageLayout: PageLayout = {
     Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer()),
   ],
-  right: [],
+  right: [
+    Component.Graph(),
+    Component.RecentNotes(),
+    Component.DesktopOnly(Component.TableOfContents()),
+  ],
 }
