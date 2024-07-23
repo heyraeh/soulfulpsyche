@@ -3,12 +3,12 @@ import * as Plugin from "./quartz/plugins"
 
 /**
  * Quartz 4.0 Configuration
- *
+ *https://docs.google.com/document/d/1ki-x1ke9ImCh-C8ZD_K63SQ-g-igonrAsDZLvnx9kPM/edit
  * See https://quartz.jzhao.xyz/configuration for more information.
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🌱 heyraeh | digital garden",
+    pageTitle: "heyraeh 🌱 digital garden",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
