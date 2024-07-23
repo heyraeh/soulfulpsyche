@@ -98,6 +98,7 @@ a {
     }
     &.tag-link {
       color: #d0c5d8;
+      font-size: small;
       &::before {
         content: "#";
       }
