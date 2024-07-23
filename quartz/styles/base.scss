@@ -97,9 +97,12 @@ a {
       padding: 0;
     }
     &.tag-link {
-      color: #d0c5d8;
+      color: #96C1C7;
       font-size: small;
       background-color: none;
+      padding: 0 0.1rem;
+      border-radius: 5px;
+      line-height: 1.4rem;
       &::before {
         content: "#";
       }
