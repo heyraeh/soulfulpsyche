@@ -11,7 +11,7 @@ heyraeh here, or Rach, or Raeh 🤙🏼
 - [[Write What You Fear...]]
 
 #### some info about me 👇🏼
-> [!info] 
+> [!tldr] 
 > > I'm Canadian, eh 🇨🇦
 > trying to re-learn 🇰🇷 & just starting 🇩🇪
 > [Die Mannschaft](https://simple.wikipedia.org/wiki/Germany_national_football_team)have been my team even before I started learning 🇩🇪
