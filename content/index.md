@@ -4,8 +4,13 @@ enableToc: "true"
 ---
 #### 👋🏼 welcome
 
-I'm Rach, heyraeh, or Raeh 🤙🏼
-#### about heyraeh 👇🏼
+heyraeh here, or Rach, or Raeh 🤙🏼
+*...here's what I've been writing about lately* 👇🏼
+- [[Sherlock & Psychology]]
+- [[I'm back...?]]
+- [[Write What You Fear...]]
+
+#### some info about me 👇🏼
 > [!info] 
 > > I'm Canadian, eh 🇨🇦
 > trying to re-learn 🇰🇷 & just starting 🇩🇪
@@ -22,16 +27,12 @@ I'm Rach, heyraeh, or Raeh 🤙🏼
 > Gummy candy feeds my soul 🍬
 
 
-You can do a few things here 
+#### Where to go from here? Well you can... 
 - read some 🧐 [[faq's]]
 - look through ✏️ [[all notes]]
 - read some casual words on my [Mastodon](https://mstdn.games/@craftykraken)
 - or [drop me a message](tab:https://letterbird.co/heyraeh)
 
-Otherwise, *here's what I've been writing about lately* 👇🏼
-- [[Sherlock & Psychology]]
-- [[I'm back...?]]
-- [[Write What You Fear...]]
 
 
 
